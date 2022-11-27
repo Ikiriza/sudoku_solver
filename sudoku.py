@@ -9,6 +9,11 @@ board =[
     [1,2,0,0,0,7,4,0,0],
     [0,4,9,2,0,6,0,0,7]
 ]
+#Pick empty box
+#Try all numbers
+#Find one that works
+#Repeat
+#Backtrack
 
 def solve(bo):
 
