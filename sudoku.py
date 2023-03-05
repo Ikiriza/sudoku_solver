@@ -58,7 +58,6 @@ def valid(bo, num, pos):
     return True
 
 
-
 def print_board(bo):
 
     for i in range (len(bo)):
